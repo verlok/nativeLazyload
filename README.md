@@ -1,2 +1,3 @@
 # nativeLazyload
-Native images lazy loading + vanilla-lazyload on other browsers
+
+Native lazy loading + vanilla-lazyload on other browsers
